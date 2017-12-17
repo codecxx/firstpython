@@ -1,2 +1,3 @@
 # firstpython
-learning
+Learn
+learning need patience.
